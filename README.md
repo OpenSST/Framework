@@ -6,5 +6,4 @@ Companies can achieve a certain degree of compliance and security maturity by ma
 
 The OpenSST aims to help entities to protect their data without having to spend much money with proprietary tools.
 
-First Header | Second Header
------------- | -------------
+
